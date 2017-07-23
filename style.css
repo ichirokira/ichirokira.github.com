@@ -1,0 +1,39 @@
+h1{
+  color: white;
+  font-weight: 200;
+}
+#heading {
+  text-align: center;
+  font-size: 60px;
+}
+.title{
+  background-color: blue;
+  border: solid 1px;
+}
+.img_avartar{
+  text-align: center;
+  height: 300px;
+  width: 300px;
+  border-top-left-radius:50px;
+}
+strong{
+  font-size: 50px;
+  font-style: italic;
+}
+.list{
+  font-size: 50px;
+  border-top-left-radius:50px;
+  border-right:50px;
+  color:red;
+  margin: 20px;
+}
+th{
+  font-size: 50px;
+  background-color: yellow;
+  color: red;
+}
+.ik{
+  font-size: 50px;
+  font-style: normal;
+  color: black;
+}
